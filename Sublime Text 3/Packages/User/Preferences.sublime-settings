@@ -41,7 +41,8 @@
 		".rbx",
 		"bin",
 		"script",
-		"tmp"
+		"tmp",
+		"build"
 	],
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
